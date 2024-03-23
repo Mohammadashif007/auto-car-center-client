@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "mileage": 15000,
+        "price": 25000,
+        "description": "The Toyota Camry is a reliable mid-size sedan known for its comfortable ride and fuel efficiency. This 2022 model comes with low mileage and a sleek silver exterior."
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2020,
+        "color": "Black",
+        "mileage": 20000,
+        "price": 22000,
+        "description": "The Honda Accord is a popular choice for its spacious interior and strong resale value. This 2020 model features a sleek black exterior and has been well-maintained."
+    },
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2019,
+        "color": "White",
+        "mileage": 18000,
+        "price": 20000,
+        "description": "The Ford Fusion offers a smooth ride and plenty of tech features. This 2019 Fusion comes in a classic white color and has low mileage."
+    },
+    {
+        "id": 4,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2018,
+        "color": "Blue",
+        "mileage": 25000,
+        "price": 18000,
+        "description": "The Chevrolet Malibu is a comfortable and spacious sedan with a stylish design. This 2018 model boasts a striking blue exterior and is priced competitively."
+    },
+    {
+        "id": 5,
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2021,
+        "color": "Red",
+        "mileage": 12000,
+        "price": 23000,
+        "description": "The Nissan Altima offers a blend of comfort, performance, and fuel efficiency. This 2021 Altima comes in a vibrant red color and has low mileage."
+    },
+    {
+        "id": 6,
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2020,
+        "color": "Gray",
+        "mileage": 15000,
+        "price": 35000,
+        "description": "The BMW 3 Series is a luxury sedan known for its sporty performance and upscale interior. This 2020 model features a sophisticated gray exterior and low mileage."
+    },
+    {
+        "id": 7,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2019,
+        "color": "Silver",
+        "mileage": 22000,
+        "price": 32000,
+        "description": "The Mercedes-Benz C-Class offers a perfect blend of luxury and performance. This 2019 C-Class comes in an elegant silver color and is equipped with advanced features."
+    },
+    {
+        "id": 8,
+        "make": "Audi",
+        "model": "A4",
+        "year": 2018,
+        "color": "Black",
+        "mileage": 18000,
+        "price": 28000,
+        "description": "The Audi A4 is a premium sedan known for its refined interior and strong engine performance. This 2018 A4 features a sleek black exterior and has been meticulously maintained."
+    },
+    {
+        "id": 9,
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "color": "White",
+        "mileage": 5000,
+        "price": 45000,
+        "description": "The Tesla Model 3 is an all-electric sedan offering impressive acceleration and cutting-edge technology. This 2023 Model 3 comes in a pristine white color and has low mileage."
+    },
+    {
+        "id": 10,
+        "make": "Hyundai",
+        "model": "Sonata",
+        "year": 2021,
+        "color": "Blue",
+        "mileage": 10000,
+        "price": 21000,
+        "description": "The Hyundai Sonata is a comfortable and fuel-efficient sedan with a spacious cabin. This 2021 Sonata features a bold blue exterior and has been well-cared for."
+    },
+    {
+        "id": 11,
+        "make": "Kia",
+        "model": "Optima",
+        "year": 2020,
+        "color": "Silver",
+        "mileage": 15000,
+        "price": 20000,
+        "description": "The Kia Optima offers a smooth ride and a user-friendly infotainment system. This 2020 Optima comes in a sleek silver color and is priced competitively."
+    },
+    {
+        "id": 12,
+        "make": "Subaru",
+        "model": "Legacy",
+        "year": 2017,
+        "color": "Green",
+        "mileage": 30000,
+        "price": 17000,
+        "description": "The Subaru Legacy is a reliable and capable sedan with all-wheel drive. This 2017 Legacy comes in a unique green color and is perfect for all-season driving."
+    }
+]
